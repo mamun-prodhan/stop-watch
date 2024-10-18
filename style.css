@@ -23,16 +23,16 @@ body main .stopwatch {
   margin: 200px auto 0;
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.8);
 }
-body main .stopwatch j .buttons {
+body main .stopwatch .buttons {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-body main .stopwatch j .buttons img {
+body main .stopwatch .buttons img {
   width: 50px;
   margin: 0 20px;
   cursor: pointer;
 }
-body main .stopwatch j .buttons img:nth-child(2) {
+body main .stopwatch .buttons img:nth-child(2) {
   width: 80px;
 }/*# sourceMappingURL=style.css.map */
